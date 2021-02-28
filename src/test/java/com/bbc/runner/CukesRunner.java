@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/bbc/Step_Definitions",
         dryRun = false,
-        tags = "@manual"
+        tags = "@automation1"   //if you want run Home feature file please put @automation2
 
 )
 

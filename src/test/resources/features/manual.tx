@@ -1,0 +1,8 @@
+@manual
+Manual test case: Comment verify automation
+    1. The user should able to go www.bbc.co.uk Home page.
+    2. The user should able to scroll down and click a Top News Headline.
+    3. The user checks if the comments can be viewed in the any "article".
+    4. The user should be able to click News article.
+    5. The user should scroll down and inspect element and click comments.
+    6. The user verify if comments is enabled.

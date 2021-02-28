@@ -40,8 +40,12 @@ public class BrowserUtils {
         ((JavascriptExecutor) com.bbc.Utilities.Driver.get()).executeScript("arguments[0].scrollIntoView(true);", element);
     }
 
+    }
 
-}
+
+
+
+
 
 
 
